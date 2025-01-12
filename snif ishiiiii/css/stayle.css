@@ -53,8 +53,8 @@ h1 {
     background-color: rgb(12, 94, 67);
   }
 }
-/* Main start */
-.main {
+
+.features__container {
   background-color: White;
   width: 600px;
   height: 450px;
@@ -63,12 +63,11 @@ h1 {
   margin-right: auto;
   margin-top: auto;
   margin-bottom: auto;
-}
-.main__container {
+
   display: flex;
   gap: 31.5px;
 }
-.main__img__wrapper {
+.in__img__wrapper {
 }
 .main__img {
   border-top-left-radius: 10px;
